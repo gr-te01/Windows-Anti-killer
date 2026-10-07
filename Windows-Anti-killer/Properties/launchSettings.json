@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Windows-Anti-killer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Windows-Anti-killer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
